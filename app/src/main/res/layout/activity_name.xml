@@ -6,7 +6,9 @@
     android:padding="16dp"
     android:gravity="start|top">
 
-    <TextView
+
+    <TextViewtest10000000
+
         android:id="@+id/textViewWelcome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
